@@ -1,0 +1,39 @@
+[
+   {"car" :"Ford Fusion" ,
+    "year" : "2008",
+    "price" : "3,500",
+    "Mileage": "97,000",
+    "title": "clean"
+   },
+ {
+    "car" :"Ford Focus" ,
+    "year" : "2010",
+    "price" : "4,500",
+    "Mileage": "100,000",
+    "title": "dirty"
+   },{
+    "car" :"Pontiac G6" ,
+    "year" : "2006",
+    "price" : "5,000",
+    "Mileage": "101,000",
+    "title": "clean"
+   },{
+    "car" :"Mercades XL" ,
+    "year" : "20013",
+    "price" : "8,000",
+    "Mileage": "70,000",
+    "title": "clean"
+
+   },{
+    "car" :"Toyota Camry" ,
+    "year" : "2010",
+    "price" : "7,000",
+    "Mileage": "130,000",
+    "title": "clean"
+
+   } 
+
+
+
+    
+]
